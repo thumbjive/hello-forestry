@@ -1,5 +1,5 @@
 ---
-title: A simple post
+title: A simple post - Foo
 date: 2020-06-08
 tags:
 - demo-content
